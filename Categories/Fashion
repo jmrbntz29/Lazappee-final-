@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>Fashion | Lazapee</title>
+      <link rel="stylesheet" type="text/css" href="../styles.css">
+   </head>
+   <body>
+      <header>
+         <nav>
+            <div id = "logo">
+                  <a href="../index.html"> 
+                     <img src="../images/lazapee-logo.png" height="85px" width="230px"> 
+                  </a>
+            </div> 
+
+            <div id="categories">
+                  <ul> 
+                     <li><a href="../categories/electronic.html">Electronic Devices</a></li>
+                     <li><a href="../categories/health-beauty.html">Health and Beauty</a></li>
+                     <li><a href="../categories/babies-toys.html">Babies and Toys</a></li>
+                     <li><a href="../categories/groceries-pets.html">Groceries and Pets</a></li>
+                     <li><a href="../categories/home-living.html">Home and  Living</a></li>
+                     <li><a href="../categories/fashion.html">Fashion</a></li>
+                  </ul>
+            </div>
+            <div id="nav">
+                  <ul>
+                     <li><a href="../cart.html">cart</a></li>
+                     <li><a href="../account/account.html">account</a></li>                
+                  </ul>
+      
+            </div>
+         </nav>
+      </header>
+
+
+         <div class="content">
+            <h1>Fashion</h1>
+            <div class="body-content" id="flash-sale">    	
+               <a href="../products/fashion/black-shirt.html">
+                  <img src="../images/products/fashion/black-shirt.jpg">
+                  <b><p>Black Shirt</p> </b>
+                  <p><i>P299</i></p>
+               </a>      
+                  
+               <a href="../products/fashion/cat-shirt.html">
+                  <img src="../images/products/fashion/cat-shirt.jpg">
+                  <b><p>Cat Shirt</p></b>
+                  <p><i> P99</i></p>
+               </a>
+                     
+               <a href="../products/fashion/green-shirt.html">
+                  <img src="../images/products/fashion/green-shirt.jpg">
+                  <b><p>Green Shirt</p></b>
+                  <p><i> P199</i></p>	
+               </a>
+            </div>
+         </div>    
+
+         
+      <footer>   
+         <div>    		
+            <ul>
+               <li><b>Follow Us in our social media website </b></li>
+                  <li>
+                     <a href="https://www.facebook.com/" target="_blank">
+                          
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.instagram.com/" target="_blank">
+                           
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.twitter.com/" target="_blank">
+                          
+                     </a>
+                  </li>
+                  
+            </ul>
+         </div>     
+         <div>
+            <p>©Lazapee2020 </p>
+         </div>        
+      </footer>
+   </body>
+</html>
