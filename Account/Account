@@ -1,0 +1,88 @@
+ 
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8"> 
+      <title>Manage Account | Lazapee</title>
+      <link rel="stylesheet" type="text/css" href="../styles.css">
+   </head>
+   <body>
+      <header>
+         <nav>
+            <div id = "logo">
+                  <a href="../index.html"> 
+                     <img src="../images/lazapee-logo.png" height="85px" width="230px"> 
+                  </a>
+            </div> 
+
+            <div id="categories">
+                  <ul> 
+                     <li><a href="../categories/electronic.html">Electronic Devices</a></li>
+                     <li><a href="../categories/health-beauty.html">Health and Beauty</a></li>
+                     <li><a href="../categories/babies-toys.html">Babies and Toys</a></li>
+                     <li><a href="../categories/groceries-pets.html">Groceries and  Pets</a></li>
+                     <li><a href="../categories/home-living.html">Home and  Living</a></li>
+                     <li><a href="../categories/fashion.html">Fashion</a></li>
+                  </ul>
+            </div>
+            <div id="nav">
+                  <ul>
+                     <li><a href="../cart.html">cart</a></li>
+                     <li><a href="../account/account.html">account</a></li>                
+                  </ul>
+      
+            </div>
+         </nav>
+      </header>
+
+
+      <div class="content">
+         <h1><b>Manage Account</b></h1>
+ 
+         <div class="body-content" id="account"> 
+             <div style="position: relative;right: -10px;width: 100%;top: -30px; text-align: right;  font-weight: bold;"><a href="../account/account-edit.html">Edit account</a></div>
+             <table border="2" width="790px" padding="4px" style="margin-top: -20px;">
+                 <tr>
+                     <td><b>Name</b></td>
+                     <td><b>Jomar Benitez </b></td>
+                 </tr>
+                 <tr>
+                     <td><b>Billing Address</b></td>   <b> San Miguel San Simon Pampanga </strong></td>
+                 </tr>
+                 <tr>
+                     <td><b>Shipping Address</b></td>
+                     <td><b>San Fernando pampanga </b></td>
+                 </tr>
+             </table>
+         </div>
+     </div>   
+
+         
+      <footer style="top: 440px; margin-bottom: 235px; margin-top: 35px;">   
+         <div>    		
+            <ul>
+               <li><b>Follow Us in our social media website </b></li>
+                  <li>
+                     <a href="https://www.facebook.com/" target="_blank">
+                           
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.instagram.com/" target="_blank">
+                           
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.twitter.com/" target="_blank">
+                           
+                     </a>
+                  </li>
+                  
+            </ul>
+         </div>     
+         <div>
+            <p>©Lazapee 2020 </p>
+         </div>        
+      </footer>
+   </body>
+</html>
