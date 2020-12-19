@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8"> 
+      <title>Edit Account | Lazapee</title>
+      <link rel="stylesheet" type="text/css" href="../styles.css">
+   </head>
+   <body>
+      <header>
+         <nav>
+            <div id = "logo">
+                  <a href="../index.html"> 
+                     <img src="../images/lazapee-logo.png" height="85px" width="230px"> 
+                  </a>
+            </div> 
+
+            <div id="categories">
+                  <ul> 
+                     <li><a href="../categories/electronic.html">Electronic Devices</a></li>
+                     <li><a href="../categories/health-beauty.html">Health and Beauty</a></li>
+                     <li><a href="../categories/babies-toys.html">Babies and Toys</a></li>
+                     <li><a href="../categories/groceries-pets.html">Groceries & Pets</a></li>
+                     <li><a href="../categories/home-living.html">Home and  Living</a></li>
+                     <li><a href="../categories/fashion.html">Fashion</a></li>
+                  </ul>
+            </div>
+            <div id="nav">
+                  <ul>
+                     <li><a href="../cart.html">cart</a></li>
+                     <li><a href="../account/account.html">account</a></li>                
+                  </ul>
+      
+            </div>
+         </nav>
+      </header>
+
+
+            <div class="content">
+               <h1><b>Edit Account</b></h1>
+               <div class="body-content" id="account-edit">            
+                  <table>
+                     <tbody>
+                           <tr>
+                              <td><b>Name</b></td>
+                              <td> <input type="text" class="table-input" value="Jomar A. Benitez "> </td>
+                           </tr>
+                           <tr>
+                              <td><b>Billing Address</b></td>
+                              <td> <input type="text" class="table-input" value="San Miguel San Simon Pampanga "></td>
+                           </tr>
+                           <tr>
+                              <td><b>Shipping Address</b></td>
+                              <td><input type="text" class="table-input" value="
+San Fernando pampanga "></td>
+                           </tr>
+                           <tr>
+                              <td><b>Old Password</b></td>
+                              <td><input type="password" class="table-input" value="Jomarqt"></td>
+                           </tr>
+                           <tr>
+                              <td><b>New Password</b></td>
+                              <td><input type="password" class="table-input" value="Jomarqtqt"></td>
+                           </tr>
+                           <tr>
+                              <td><b>Confirm Password</b></td>
+                              <td><input type="password" class="table-input" value="Jomarqtqt"></td>
+                           </tr>
+                     </tbody>
+                     <tfoot>
+                           <tr> 
+                              <td></td>
+                              <td>
+                                 <button type="button" class="btn-save" onclick="alert('Success!')" >Save</button>
+                              </td>
+                           </tr>
+                     </tfoot>
+                  </table>
+      
+               </div>
+         </div>
+         
+      <footer style="top: 230px; margin-bottom: 235px; margin-top: 25px;">   
+         <div>    		
+            <ul>
+               <li><b>Follow Us in our social media website </b></li>
+                  <li>
+                     <a href="https://www.facebook.com/" target="_blank">
+                           
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.instagram.com/" target="_blank">
+                           
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.twitter.com/" target="_blank">
+                          
+                     </a>
+                  </li>
+                  
+            </ul>
+         </div>     
+         <div>
+            <p>©Lazapee2020 </p>
+         </div>        
+      </footer>
+   </body>
+</html>
